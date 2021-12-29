@@ -1,0 +1,31 @@
+{
+  "name": "react-native-date-time-formatter",
+  "version": "1.0.0",
+  "description": "A simple libray for get actual date and time in a relation to a formal date, this is librrary is useful in When Message app, notifications and Chat center app. It provides you with the time the diffirence to the bearest seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Momoh/react-native-date-time-formatter.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "react",
+    "react-native",
+    "date-formatter",
+    "time",
+    "ago"
+  ],
+  "author": "Samuel Momoh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samuel-Momoh/react-native-date-time-formatter/issues"
+  },
+  "homepage": "https://github.com/Samuel-Momoh/react-native-date-time-formatter#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
